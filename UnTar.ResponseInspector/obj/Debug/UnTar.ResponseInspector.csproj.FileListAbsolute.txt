@@ -1,0 +1,12 @@
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\obj\Debug\UnTar.ResponseInspector.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\obj\Debug\UnTar.ResponseInspector.InspectorControl.resources
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\obj\Debug\UnTar.ResponseInspector.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\UnTar.ResponseInspector.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\UnTar.ResponseInspector.pdb
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\Fiddler.exe
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\Xceed.Zip.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\Xceed.FileSystem.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\Xceed.Compression.Formats.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\bin\Debug\Xceed.Compression.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\obj\Debug\UnTar.ResponseInspector.dll
+F:\Visual Studio 2010\Projects\UnTar.ResponseInspector\UnTar.ResponseInspector\obj\Debug\UnTar.ResponseInspector.pdb
